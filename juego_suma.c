@@ -12,7 +12,7 @@ int main(void)
 
    if (respuesta == suma)
    {
-    printf("Acertastes, El resultado es %d", suma);
+    printf("Acertastes, El resultado es %d\n", suma);
    }
    else
    {

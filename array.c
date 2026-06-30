@@ -6,7 +6,6 @@ int main(void)
   int suma = 0;
   float promedio;
   int numeros[100];
-
   // pedir cantidad
   printf("Ingrese la cantidad de numeros que calcularas.\n");
   scanf("%d", &cantidad);
